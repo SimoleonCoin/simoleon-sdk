@@ -1,0 +1,14 @@
+{
+  "name": "simoleon-sdk",
+  "version": "0.1.0",
+  "description": "JavaScript SDK for Simoleon Checkout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "author": "Simoleon Labs",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
